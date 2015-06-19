@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\build\release\USC.GISResearchLab.ShortestPath.Core.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\src\obj\Release\ShortestPath.Core.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\src\obj\Release\USC.GISResearchLab.ShortestPath.Core.dll
+C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Core\build\1.0.0\release\Tamu.GeoInnovation.ShortestPath.Core.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Core\src\obj\Release\ShortestPath.Core.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Core\src\obj\Release\Tamu.GeoInnovation.ShortestPath.Core.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Core.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Core\src\Main\obj\Release\ShortestPath.Core.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Core\src\Main\obj\Release\Tamu.GeoInnovation.ShortestPath.Core.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Core\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Core.dll

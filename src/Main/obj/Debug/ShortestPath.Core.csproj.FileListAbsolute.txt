@@ -1,0 +1,5 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\build\debug\USC.GISResearchLab.ShortestPath.Core.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\build\debug\USC.GISResearchLab.ShortestPath.Core.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\src\obj\Debug\ShortestPath.Core.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\src\obj\Debug\USC.GISResearchLab.ShortestPath.Core.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Core\src\obj\Debug\USC.GISResearchLab.ShortestPath.Core.pdb
