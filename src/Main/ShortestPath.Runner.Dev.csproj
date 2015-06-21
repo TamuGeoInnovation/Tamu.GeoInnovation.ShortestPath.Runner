@@ -90,22 +90,6 @@
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
     <Reference Include="System.Xml" />
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Logging.TraceEvents">
-      <HintPath>..\..\..\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Threading">
-      <HintPath>..\..\..\Common.Core.Threading\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Threading.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Data.Databases">
-      <HintPath>..\..\..\Common.Data.Databases\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Data.Databases.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Data.Databases.Runners">
-      <HintPath>..\..\..\Common.Data.Databases.Runners\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Data.Databases.Runners.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -139,6 +123,28 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common.Core.Logging.TraceEvents\Src\Main\Common.Core.Logging.TraceEvents.Dev.csproj">
+      <Project>{9F19062E-A949-4FF8-8DC1-7239F06348DF}</Project>
+      <Name>Common.Core.Logging.TraceEvents.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Core.Threading\Src\Main\Common.Core.Threading.Dev.csproj">
+      <Project>{FE6237ED-DCBB-43F5-A216-27CB99BEAFDB}</Project>
+      <Name>Common.Core.Threading.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Data.Databases.Runners\Src\Main\Common.Data.Databases.Runners.Dev.csproj">
+      <Project>{5A003DA0-31D1-48F6-81F7-0A0301362AC9}</Project>
+      <Name>Common.Data.Databases.Runners.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Data.Databases\Src\Main\Common.Data.Databases.Dev.csproj">
+      <Project>{A7DF15F2-1210-4431-B223-A3A2810DC14A}</Project>
+      <Name>Common.Data.Databases.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
