@@ -8,7 +8,7 @@ namespace USC.GISResearchLab.Common.Core.ShortestPathFinders.ShortestPathQueries
     public class ShortestPathBatchOptions : ShortestPathBaseOptions
     {
         #region Properties
-        
+
         public string FieldFromLat { get; set; }
 
         public string FieldFromLon { get; set; }
@@ -21,7 +21,7 @@ namespace USC.GISResearchLab.Common.Core.ShortestPathFinders.ShortestPathQueries
 
         public string FieldShortestDistance { get; set; }
 
-		public string FieldNearestNodeDistance { get; set; }
+        public string FieldNearestNodeDistance { get; set; }
 
         public string FieldKMLDistance { get; set; }
 

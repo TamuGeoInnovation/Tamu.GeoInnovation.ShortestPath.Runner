@@ -16,7 +16,7 @@ namespace USC.GISResearchLab.ShortestPath.Core.Runners.Databases
             get { return _Id; }
             set { _Id = value; }
         }
-	
+
 
         public string ToLon
         {
@@ -35,19 +35,19 @@ namespace USC.GISResearchLab.ShortestPath.Core.Runners.Databases
             get { return _FromLon; }
             set { _FromLon = value; }
         }
-	
+
 
         public string FromLat
         {
             get { return _FromLat; }
             set { _FromLat = value; }
         }
-	
 
-        
+
+
         #endregion
 
         public RecordCompletedProgressState()
-            :base(){}
+            : base() { }
     }
 }
